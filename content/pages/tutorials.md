@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tutorials
+ocw_type: CourseSection
 title: Tutorials
 uid: a096a2be-1954-faf8-ec3f-834366b7c42a
 ---
@@ -27,7 +30,7 @@ Getting Started \[7:45\] ([SWF - 4MB](/ans7870/3/3.093/f06/tutorials/getting-sta
 Database Search Tips \[10:45\] ([SWF - 7MB](/ans7870/3/3.093/f06/tutorials/database.swf))
 -----------------------------------------------------------------------------------------
 
-*   GoogleTM vs. Library Search Tools
+*   Google{{< sup "TM" >}} vs. Library Search Tools
 *   Keyword, Truncation and Boolean Searching
 *   Subject and Field Searching
 

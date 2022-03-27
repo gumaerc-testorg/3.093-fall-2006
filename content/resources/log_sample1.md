@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 07449a28-b2f7-7b37-ab46-5fa2282f3eb5
 resourcetype: Document
 title: log_sample1.pdf
 uid: 3aa886f7-21e6-2a63-cd35-caa48a721564

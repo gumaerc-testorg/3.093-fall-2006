@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains six tutorial modules given by instructor.
 learning_resource_types:
 - Tutorials
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the grading criteria and outline.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c0b8d30f-c316-9837-9504-16d13f805278
 ---

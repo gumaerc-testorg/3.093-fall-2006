@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains tutorial module reviews, reasearch logs and six
+  assignment files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 07449a28-b2f7-7b37-ab46-5fa2282f3eb5
 ---
 
-Students are expected to submit reviews of each [tutorial]({{< baseurl >}}/pages/tutorials) module, and complete several homework assignments plus accompanying research logs.
+Students are expected to submit reviews of each {{% resource_link a096a2be-1954-faf8-ec3f-834366b7c42a "tutorial" %}} module, and complete several homework assignments plus accompanying research logs.
 
 Tutorial Module Reviews
 -----------------------
@@ -24,17 +29,17 @@ For each Module Review, please include the following elements, or answer these q
 Assignments
 -----------
 
-Assignment 1: Literature Review ([PDF]({{< baseurl >}}/resources/assignment1))
+Assignment 1: Literature Review ({{% resource_link 306a525a-fd7d-42e6-32e7-335e72370d54 "PDF" %}})
 
-Assignment 2: Find an Expert ([PDF]({{< baseurl >}}/resources/assignment2))
+Assignment 2: Find an Expert ({{% resource_link 7d56c187-1052-ab53-be7f-c35c3ddc7e4f "PDF" %}})
 
-Assignment 3: Forward Citation ([PDF]({{< baseurl >}}/resources/assignment3))
+Assignment 3: Forward Citation ({{% resource_link 82e3cfe4-afaf-974a-7ed1-9ecdeda532f2 "PDF" %}})
 
-Assignment 4: Secondary Sources ([PDF]({{< baseurl >}}/resources/assignment4))
+Assignment 4: Secondary Sources ({{% resource_link 3c95dce2-43c2-aff2-be1e-3d6972bab31b "PDF" %}})
 
-Assignment 5: Corroborating Information ([PDF]({{< baseurl >}}/resources/assignment5))
+Assignment 5: Corroborating Information ({{% resource_link 7d5339bc-1988-bd2e-0dcb-d80e3237a75e "PDF" %}})
 
-Assignment 6: Final Literature Review ([PDF]({{< baseurl >}}/resources/assignment6))
+Assignment 6: Final Literature Review ({{% resource_link 8ac66ccc-4a34-b74e-0de6-02a433b214e2 "PDF" %}})
 
 Research Logs
 -------------
@@ -52,6 +57,6 @@ For each Research Log, please include the following elements, regardless of form
 
 Sample Research Logs are given below. Email your Research Logs to Angie Locknar before class begins on the date the assignment is due.
 
-Sample 1 ([PDF]({{< baseurl >}}/resources/log_sample1))
+Sample 1 ({{% resource_link 3aa886f7-21e6-2a63-cd35-caa48a721564 "PDF" %}})
 
-Sample 2 ([PDF]({{< baseurl >}}/resources/log_sample2))
+Sample 2 ({{% resource_link 5c452791-a8f6-95eb-81aa-81898682e28f "PDF" %}})

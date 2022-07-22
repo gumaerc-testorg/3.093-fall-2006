@@ -5,6 +5,7 @@ file: /courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment1.pdf
 uid: 306a525a-fd7d-42e6-32e7-335e72370d54
 ---
 Homework assignment.
-

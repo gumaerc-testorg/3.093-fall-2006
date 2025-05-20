@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/82e3cfe4afaf974a7ed19ecdeda532f2_assignment3.pdf
+file: /courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/82e3cfe4afaf974a7ed19ecdeda532f2_assignment3.pdf
 file_size: 20519
 file_type: application/pdf
 learning_resource_types:
